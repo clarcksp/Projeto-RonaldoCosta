@@ -19,7 +19,17 @@ export default function Volunteer() {
             <p className="text-blue-600 font-semibold text-lg mb-2">
               Rotary Clube Guarulhos
             </p>
-            <p className="text-gray-600">Jul de 2021 - até o momento</p>
+            <p className="text-gray-600">Jul de 2021 - Jun de 2023</p>
+          </div>
+
+          <div className="mb-6 border-t border-gray-200 pt-6">
+            <h3 className="text-2xl font-bold text-gray-900 mb-2">
+              Protocolo
+            </h3>
+            <p className="text-blue-600 font-semibold text-lg mb-2">
+              Rotary Clube Guarulhos
+            </p>
+            <p className="text-gray-600">Jul de 2024 - Jun de 2025</p>
           </div>
 
           <div className="border-t border-gray-200 pt-6">
